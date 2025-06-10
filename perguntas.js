@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Fundação Sagrada',
+    'O que veio primeiro: Corinthians ou futebol?',
+    'O futebol. O Corinthians foi fundado em 1910.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Geografia Alvinegra',
+    'Qual é a capital do Timão?',
+    'São Paulo, com sede no bairro de Itaquera.'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Vestimenta Histórica',
+    'Qual cor nunca fez parte do uniforme do Corinthians?',
+    'Verde.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Corinthians Internacional',
+    'Como se diz "Vai, Corinthians!" em inglês?',
+    '"Go, Corinthians!"'
 )
